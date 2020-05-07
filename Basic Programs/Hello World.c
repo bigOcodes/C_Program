@@ -10,8 +10,7 @@ int main()
 
 //  OUTPUT
 //Hello, World!
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------
 // how program work
 /*
 The #include is a preprocessor command that tells the compiler to include the contents of stdio.h (standard input and output) file in the program.
