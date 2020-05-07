@@ -15,10 +15,9 @@ int main() {
     return 0;
 }
 
-//Output
-
-Enter an integer: 25
-You entered: 25
+//      Output
+//Enter an integer: 25
+//You entered: 25
 
 /*
 In this program, an integer variable number is declared.
