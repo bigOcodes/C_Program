@@ -18,7 +18,7 @@ int main()
 //Enter two integers: 12
 //11
 //12 + 11 = 23
-
+---------------------------------------------------------------------------------------------------------------------------------------
 /*
 In this program, the user is asked to enter two integers. These two integers are stored in variables number1 and number2 respectively.
 
