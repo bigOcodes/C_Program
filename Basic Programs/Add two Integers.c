@@ -27,4 +27,8 @@ scanf("%d %d", &number1, &number2);
 Then, these two numbers are added using the + operator, and the result is stored in the sum variable.
 
 sum = number1 + number2;
+
+Finally, the printf() function is used to display the sum of numbers.
+
+printf("%d + %d = %d", number1, number2, sum);
 */
